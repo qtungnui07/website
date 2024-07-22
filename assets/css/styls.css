@@ -48,3 +48,10 @@ nav{
     align-content: center;
     margin-top: 12px;
 }
+
+.content-mf{
+    margin-top: 20vh;
+}
+.image-qt{
+    border-radius: 35px;
+}
