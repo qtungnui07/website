@@ -15,14 +15,6 @@ a.mbr-iconfont:hover {
   text-decoration: none;
 }
 
-.article .lead p,
-.article .lead ul,
-.article .lead ol,
-.article .lead pre,
-.article .lead blockquote {
-  margin-bottom: 0;
-}
-
 a {
   font-style: normal;
   font-weight: 400;
@@ -77,23 +69,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transition-property: background-color, color;
 }
 
-textarea[type=hidden] {
-  display: none;
-}
 
-section {
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-section .mbr-background-video,
-section .mbr-background-video-preview {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-}
 
 .hidden {
   visibility: hidden;
